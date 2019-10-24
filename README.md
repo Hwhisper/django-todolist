@@ -34,4 +34,4 @@
 
 7. 页面访问展示（127.0.0.1：8000/api/todos):
 
-![imag](https://github.com/Hwhisper/django-todolist/blob/master/image/展示.png）
+![imag](https://github.com/Hwhisper/django-todolist/blob/master/image/%E5%B1%95%E7%A4%BA.png）
