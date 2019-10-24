@@ -31,3 +31,7 @@
 /todos/ 这将返回所有Todo项的列表：
 
 ![imag](https://github.com/Hwhisper/django-todolist/blob/master/image/urls.png) 
+
+7. 页面访问展示（127.0.0.1：8000/api/todos):
+
+![imag](https://github.com/Hwhisper/django-todolist/blob/master/image/展示.png）
